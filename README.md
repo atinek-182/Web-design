@@ -9,6 +9,8 @@ View the live website on Vercel:
 
 ## Full page preview
 
+Full-page desktop capture (1920px width) of the deployed site:
+
 ![Premier Model Management Full Page Preview](./assets/preview.jpg)
 
 ## Features
@@ -59,7 +61,7 @@ To run this project locally on your machine:
 ```text
 Project CSS/
 |-- assets/
-|   \-- preview.jpg          # Full-page visual preview
+|   \-- preview.jpg          # Full-page desktop preview (1920px width)
 |-- arrow-right.png          # UI navigation icons
 |-- arrow-right-black.png
 |-- circle-text.png          # Rotating typography assets
